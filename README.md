@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning **JavaScript, PHP.**
-- 🎓 Studying **Systems Analysis*
+- 🎓 Studying **Systems Analysis**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)](https://github.com/janainaborges/github-readme-stats)
 
