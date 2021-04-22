@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - 📚 - Estou aprendendo: **JavaScript e PHP.**
 - 🎓 - Graduando em Análise de Sistema
 - 🌱 - Noções de: *Git, Node.js, Angular, Docker, Mysql, SQL Server, Vue.js, Typescript*
-
-<p align="center">
-<img src= [![Top Langs]"(https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)"]>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)]
 
 
 
