@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🎓 - Graduando em Análise de Sistema
 - 🌱 - Noções de: *Git, Node.js, Angular, Docker, Mysql, SQL Server, Vue.js, Typescript*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)](https://github.com/janainaborges/github-readme-stats)
+<p align="center">
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)](https://github.com/janainaborges/github-readme-stats)>
 
 
 
