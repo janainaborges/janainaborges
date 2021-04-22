@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 - Noções de: *Git, Node.js, Angular, Docker, Mysql, SQL Server, Vue.js, Typescript*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)
 
 
 
