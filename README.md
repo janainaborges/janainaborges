@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-• 📚 Estou aprendendo: **JavaScript e PHP.**
+• 📚 Estou aprendendo: **JavaScript e PHP.**![image](https://user-images.githubusercontent.com/61284348/128954442-637ec33c-9750-4248-9c22-587b61f2fe9e.png)
+
 • 🎓 Graduando em Análise de Sistema
 • 🌱 Noções de: *Git, Node.js, Angular, Docker, Mysql, SQL Server, Vue.js, Typescript, web designer php*
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.
