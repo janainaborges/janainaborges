@@ -1,5 +1,4 @@
-###Eu sou a Janaina, uma iniciante da tecnologia, com o foco a mehulhar fundo 👋 ![](https://komarev.com/ghpvc/?username=janainaborges&color=blue)
-
+###Eu sou a Janaina, uma iniciante da tecnologia, com o foco a mehulhar fundo 👋 
 <!--
 **janainaborges/janainaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
