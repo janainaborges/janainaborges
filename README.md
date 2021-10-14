@@ -1,4 +1,4 @@
-***Eu sou a Janaina, uma iniciante da tecnologia***👋 
+
 <!--
 **janainaborges/janainaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ============================================
@@ -93,9 +93,6 @@ const janaina = {
 </div>
 <br> -->
 
-<h3>🔍 Fun facts:</h3>
-
-- Follow me in the Rocketseat community: Pleiterson Amorim 🚀
 
 ![Snake animation](https://github.com/janainaborges/janainaborges/blob/output/github-contribution-grid-snake.svg)
 
