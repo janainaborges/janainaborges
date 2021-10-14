@@ -68,7 +68,7 @@ const janaina = {
     ides: ['VS Code'],
   },
   
-  interest: ['Python', '', 'Rust', 'Kotlin', 'Angular', , 'GraphQL'],
+  interest: ['Python', 'Rust', 'Kotlin', 'Angular', , 'GraphQL'],
   otherCodes: ['php']
 }
 ```
