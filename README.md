@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/Pleiterson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pleiterson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleiterson&layout=compact&langs_count=15&theme=tokyonight" />
+  <a href="https://github.com/janainaborges/janainaborges">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainaborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=janainaborges&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 
 ##
