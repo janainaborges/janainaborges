@@ -23,18 +23,6 @@ Here are some ideas to get you started:
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janainaborges&layout=compact)
 
-const pleiterson = {
-  code: ['C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
-  certifications: ['SFC', 'SFPC', 'LLL'],
-  technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
-    mobile: ['React Native'],
-    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
-    ides: ['VS Code', 'Visual Studio'],
-  },
-  methodologies: ['Scrum', 'Kanban', 'Agile'],
-  interest: ['Python', 'php', 'Ruby', 'Kotlin', 'Angular', 'Bootstrap', 'GraphQL'],
-  otherCodes: ['Pascal', 'Visual Basic', 'Delphi']
-}
+
 
 
