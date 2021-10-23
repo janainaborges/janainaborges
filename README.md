@@ -27,13 +27,36 @@ Here are some ideas to get you started:
 <!-- <a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br> -->
 
 <!--About session-->
-<h3>Hi, I'm Janaina! Welcome to my GitHub 😁</h3>
+<h3>Hello, world!😁</h3>
 
 <span><em>Back-end Developer Jr. Freelancer</em></span>
 <br><br>
-<p>I am attending Analysis Development. I live Brasília today. 
-
 ##
+
+
+
+<details>
+  <summary> More about me</summary>
+@@ -25,16 +25,13 @@ const stebs = {
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['React'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Java: ['Spring Framework'],
+                Javascript: ['Node.js', 'Express']
+            },
+            mobile: ['Ionic'],
+            databases: ['mongoDb', 'mySql'],
+            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+        },
+    }
+
+
+
 
 <!-- Badges session -->
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=janainaborges" alt="janainaborges"/></span>
@@ -48,30 +71,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/janainaborges/janainaborges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janainaborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=janainaborges&layout=compact&langs_count=15&theme=tokyonight" />
+
 </div>
 
 ##
 
-<h3>A little more about me...</h3>
 
-```javascript
-const janaina = {
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
-  
-  technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components', 'Bootstrap'],
-    mobile: ['React Native'],
-    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'Docker'],
-    ides: ['VS Code'],
-  },
-  
-  interest: ['Python', 'Rust', 'Kotlin', 'Angular', , 'GraphQL'],
-  otherCodes: ['php']
-}
-```
 
 <div style="display: inline_block"><br>
 
@@ -94,7 +99,7 @@ const janaina = {
 <br> -->
 
 
-![Snake animation](https://github.com/janainaborges/janainaborges/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
