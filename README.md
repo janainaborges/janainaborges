@@ -70,8 +70,7 @@ const janaina = {
  }
  ...
 
-<div align="center">
- 
+
  
 <a href="https://github.com/janainaborges/janainaborges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitlab.com/janainaborgesdr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
