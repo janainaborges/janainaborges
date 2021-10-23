@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 const janaina = {
     personal: {
         fullName: 'Janaina Borges',
-        birthDate: '1995-05-20',
+        birthDate: '1996-04-03',
         pronouns: 'she' | 'her',
         interests: ['music', 'language learning', 'anime'],
         motivation: [
