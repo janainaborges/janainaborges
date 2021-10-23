@@ -69,11 +69,15 @@ const janaina = {
  
  }
  ...
-
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:janainaborges@gmail.com)
+[![GitHub: ](https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white)](https://gitlab.com/janainaborgesdr)
+[![GitHub: ](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
+[![GitHub: stebsnusch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/stebsnusch)
+</div>
 
 <!-- Badges session -->
 [![Gmail]("https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white")](https://github.com/janainaborges/janainaborges)
-<a href="https://gitlab.com/janainaborgesdr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
+<a href="" target="_blank" rel="noopener noreferrer"><img src="" alt="GitLab"></a>
 <a href="https://pt.stackoverflow.com/users/221946/janaina-borges" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
 <a href="www.linkedin.com/in/janaina-borges-b2a2b4206" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
