@@ -34,10 +34,22 @@ Here are some ideas to get you started:
 ##
 
 
-
 <details>
   <summary> More about me</summary>
-@@ -25,16 +25,13 @@ const stebs = {
+<div align="left">
+ 
+``` js
+const janaina = {
+    personal: {
+        fullName: 'Janaina Borges',
+        birthDate: '1995-05-20',
+        pronouns: 'she' | 'her',
+        interests: ['music', 'language learning', 'anime'],
+        motivation: [
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
+        ],
+    },
     technical: {
         technologies: {
             frontEnd: {
@@ -57,18 +69,13 @@ Here are some ideas to get you started:
 
 
 
-
-<!-- Badges session -->
-<span><img src="https://visitor-badge.laobi.icu/badge?page_id=janainaborges" alt="janainaborges"/></span>
-<a href="https://github.com/janainaborges/janainaborges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</details>
+  <a href="https://github.com/janainaborges/janainaborges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitlab.com/janainaborgesdr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
-<a href="https://pt.stackoverflow.com/users/221946/janaina-borges" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
 <a href="www.linkedin.com/in/janaina-borges-b2a2b4206" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
-
-
-
+</div>
+ 
 
 <div align="center">
 
