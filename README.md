@@ -72,7 +72,7 @@ const janaina = {
 
 
 <!-- Badges session -->
-[<a href="https://github.com/janainaborges/janainaborges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>]
+[![Gmail]("https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white")](https://github.com/janainaborges/janainaborges)
 <a href="https://gitlab.com/janainaborgesdr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a href="https://pt.stackoverflow.com/users/221946/janaina-borges" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
 <a href="www.linkedin.com/in/janaina-borges-b2a2b4206" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
