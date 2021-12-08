@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
 -->
 
  <div align="center">
   
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
+ 
+<img src= https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif/>
 
 
 
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 <!--About session-->
 <h3>Hello, world!😁</h3>
 
-<span><em>Back-end Developer Jr. Freelancer</em></span>
+<span><em>Front-end Developer Jr. Freelancer</em></span>
 <br><br>
 ##
 
@@ -43,9 +46,9 @@ Here are some ideas to get you started:
 const janaina = {
     personal: {
         fullName: 'Janaina Borges',
-        birthDate: '1996-04-03',
+        birthDate: '04-03-1996',
         pronouns: 'she' | 'her',
-        interests: ['music', 'language learning', 'anime'],
+        interests: ['music', 'read book', 'anime', 'technology innovation'],
         motivation: [
             'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
@@ -54,17 +57,17 @@ const janaina = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React'],
+                Javascript: ['React', 'NextJs'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Java: ['Spring Framework'],
-                Javascript: ['Node.js', 'Express']
+                Java: ['Spring Boot'],
+                Javascript: ['Node.js']
             },
-            mobile: ['Ionic'],
+            mobile: ['react native'],
             databases: ['mongoDb', 'mySql'],
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+            architecture: ['Single Page Applications', 'Domain Driven Design'],
         },
     }
  
