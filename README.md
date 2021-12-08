@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- <a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br> -->
 
 <!--About session-->
-<h3>Hello, world!🚀</h3>
+<h3>Hello, mundo!🚀</h3>
 
 <span><em>Front-end Developer Jr. Freelancer</em></span>
 <br><br>
@@ -66,7 +66,6 @@ const janaina = {
             },
             mobile: ['react native'],
             databases: ['mongoDb', 'mySql'],
-            architecture: ['Single Page Applications', 'Domain Driven Design'],
         },
     }
  
