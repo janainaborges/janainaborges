@@ -50,7 +50,7 @@ const janaina = {
         pronouns: 'ela' | 'dela',
         interests: ['música', 'ler livors', 'animes', 'tecnologia'],
         motivation: [
-               'Deixar a vida mais fácil com a a tecnologia',
+               'Deixar a vida mais fácil com a tecnologia',
         ],
     },
     technical: {
