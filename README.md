@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- <a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br> -->
 
 <!--About session-->
-<h3>Hello, world!😁</h3>
+<h3>Hello, world!🚀</h3>
 
 <span><em>Front-end Developer Jr. Freelancer</em></span>
 <br><br>
@@ -47,11 +47,10 @@ const janaina = {
     personal: {
         fullName: 'Janaina Borges',
         birthDate: '04-03-1996',
-        pronouns: 'she' | 'her',
-        interests: ['music', 'read book', 'anime', 'technology innovation'],
+        pronouns: 'ela' | 'dela',
+        interests: ['música', 'ler livors', 'animes', 'tecnologia'],
         motivation: [
-            'Help improving diversity and inclusion',
-            'Making life easier and smarter through tech',
+               'Deixar a vida mais fácil com a a tecnologia',
         ],
     },
     technical: {
