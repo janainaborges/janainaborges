@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary> More about me</summary>
-<div align="center">
+<div align="left">
  
 ``` js
 const janaina = {
