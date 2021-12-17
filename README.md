@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 <!--About session-->
 <h3>Hello, mundo!🚀</h3>
 
-<span><em>Front-end Developer Jr. Freelancer</em></span>
+<span><em>Fullstack Developer Jr.</em></span>
 <br><br>
 ##
 
 
 <details>
   <summary> More about me</summary>
-<div align="left">
+<div align="center">
  
 ``` js
 const janaina = {
@@ -61,8 +61,7 @@ const janaina = {
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Java: ['Spring Boot'],
-                Javascript: ['Node.js']
+                 Javascript: ['Node.js']
             },
             mobile: ['react native'],
             databases: ['mongoDb', 'mySql'],
