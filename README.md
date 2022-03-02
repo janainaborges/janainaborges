@@ -75,7 +75,7 @@ const janaina = {
 
 <div align="center">
   <a href="https://github.com/janainaborges/janainaborges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://twitter.com/BorgsJana" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/BorgsJana" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/	/twitter/url?url=https%3A%2F%2Fshields.io" alt="Twitter"></a>
 <a href="www.linkedin.com/in/janaina-borges-b2a2b4206" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
