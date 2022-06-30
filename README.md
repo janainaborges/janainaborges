@@ -56,9 +56,9 @@ const janaina = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'NextJs'],
+                Javascript: ['React', 'Angular10', 'Vue'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
+                CSS: ['sass', 'styled-components', 'Bootstrap', 'TailwindCss'],
             },
             backEnd: {
                  Javascript: ['Node.js']
