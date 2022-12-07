@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--About session-->
 <h3>Hello, mundo!🚀</h3>
 
-<span><em>Frontend Developer Jr.</em></span>
+<span><em>Fullstack Developer Jr.</em></span>
 <br><br>
 ##
 
@@ -56,12 +56,13 @@ const janaina = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Angular''],
+                Javascript: ['React', 'Angular'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap', 'TailwindCss'],
+                CSS: ['sass', 'styled-components', 'Bootstrap', 'TailwindCss', 'PrimeFaces', 'Material UI'],
             },
             backEnd: {
                  Javascript: ['Node.js']
+                 C#:[.NET Framework, Asp.Net]
             },
             mobile: ['react native'],
             databases: ['mongoDb', 'mySql'],
