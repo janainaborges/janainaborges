@@ -56,13 +56,14 @@ const janaina = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Angular'],
+                Javascript: ['React', 'Angular', 'Vue', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap', 'TailwindCss', 'PrimeFaces', 'Material UI'],
             },
             backEnd: {
-                 Javascript: ['Node.js']
-                 C#:[.NET Framework, Asp.Net]
+                 Javascript: ['Node.js'],
+                 C#:[.NET Framework, Asp.Net],
+                 Java: [spring boot]
             },
             mobile: ['react native'],
             databases: ['mongoDb', 'mySql'],
