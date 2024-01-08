@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--About session-->
 <h3>Hello, mundo!🚀</h3>
 
-<span><em>Frontend Developer.</em></span>
+<span><em>Fullstack Developer.</em></span>
 <br><br>
 ##
 
