@@ -48,7 +48,7 @@ const janaina = {
         fullName: 'Janaina Borges',
         birthDate: '04-03-1996',
         pronouns: 'ela' | 'dela',
-        interests: ['música', 'ler livors', 'animes', 'tecnologia'],
+        interests: ['música', 'ler livros', 'animes', 'tecnologia'],
         motivation: [
                'Deixar a vida mais fácil com a tecnologia',
         ],
