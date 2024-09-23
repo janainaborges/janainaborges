@@ -66,7 +66,7 @@ const janaina = {
                  Java: [spring boot]
             },
             mobile: ['react native'],
-            databases: ['mongoDb', 'mySql'],
+            databases: ['mongoDb', 'PostegreSQL'],
         },
     }
  
